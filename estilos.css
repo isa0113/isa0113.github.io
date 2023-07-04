@@ -1,0 +1,44 @@
+div{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(165, 204, 247);
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.contenedor{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numero1{
+    background-color:azure ;
+    
+}
+.numero2{
+    background-color:antiquewhite;
+  
+
+}
+.numero3{
+    background-color:ivory;
+   
+
+}
+.numero4{
+    background-color:rgb(244, 179, 179) ;
+
+}
+.numero5{
+    background-color:oldlace ;
+}
+.numero6{
+    background-color:palegoldenrod ;
+    order: -1;
+}
+
